@@ -1,6 +1,2 @@
-# Example
-
-To run this example:
-
-- `npm install` or `yarn`
-- `npm run dev` or `yarn dev`
+IT - 105INTEGRATED PROGRAMMING AND TECHNOLOGIES
+ACTIVITIES/ASSIGNMENTS/EXAMS
