@@ -1,0 +1,27 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="theme-color" content="#000000">
+
+	<title>React App</title>
+</head>
+
+<body>
+  <h1> Created by NORMAN SAGUIMPA </h1>
+  
+  <footer>
+    <p class="copyrigth">
+    Copyright <span id="currentYear"></span></p>
+  </footer>
+
+  <script>
+    var date = new Date();
+    var year = date.getFullYear();
+    document.getElementById("currentYear").innerHTML = year;
+  </script>  
+</html>
